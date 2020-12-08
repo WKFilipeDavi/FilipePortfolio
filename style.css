@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    color: white;
+}
+header .row{
+    background-color: #3943b7;
+}
+
+.titletext h2{
+    
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.subtitletext p{
+    text-align: center;
+    font-size: 1em;
+}
+
+.autortext{
+    font-weight: 300;
+}
+
+.areatext{
+    font-weight: 300;
+}
+
+/* ----------------- Main ---------------------*/
+
+.fa-home{
+    color:  #150578;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.titlesection{
+    text-align: center;
+
+}
+
+.titlesection p{
+    font-weight: 300;
+}
+
+.blueborder{
+    border: 1.5px solid #0e0e52;
+}
+
+/* ============ Media query ===================== */
